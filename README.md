@@ -100,11 +100,8 @@ Created a new version of the table (prices_V2).
 
 
 
+<img width="712" height="143" alt="image" src="https://github.com/user-attachments/assets/d45773a6-8dbd-43b4-aa6b-6a356633af0e" />
 
-
-
-
-<img width="478" height="76" alt="Στιγμιότυπο οθόνης 2025-09-29 153319" src="https://github.com/user-attachments/assets/c3a4571c-0913-4d68-aea1-cbd0bf5aa8a5" />
 
 
 
