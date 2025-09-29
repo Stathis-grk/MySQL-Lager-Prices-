@@ -122,6 +122,7 @@ Queried lager prices within a specific price range (between 120 and 140) using b
 
 
 
+
 <img width="1197" height="620" alt="Στιγμιότυπο οθόνης 2025-09-29 153414" src="https://github.com/user-attachments/assets/bc29a335-d3f3-4cd5-b332-79fad42c0a29" />
 
 
