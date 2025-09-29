@@ -79,10 +79,6 @@ Created a new version of the table (prices_V2).
 
 
 
-
-
-
-
 <img width="323" height="346" alt="Στιγμιότυπο οθόνης 2025-09-29 153144" src="https://github.com/user-attachments/assets/589a5a09-0f29-4516-8032-22e0e095eb81" />
 
 
