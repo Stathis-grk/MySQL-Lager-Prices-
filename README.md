@@ -148,3 +148,4 @@ Queried lager prices within a specific price range (between 120 and 140) using b
 4) Conditional logic with CASE
 5) Table joins
 6) Data insertion & union queries
+7) Statistical methods (for Data Analysis porpuse)
