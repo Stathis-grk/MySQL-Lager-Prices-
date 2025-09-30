@@ -128,7 +128,7 @@ Queried lager prices within a specific price range (between 120 and 140) using b
 
 
 
-## usefull statistics (Varience, Standard deviation and Average Price) 
+## Usefull statistics (Varience, Standard deviation and Average Price) 
 
 
 
