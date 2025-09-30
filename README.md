@@ -128,3 +128,16 @@ Queried lager prices within a specific price range (between 120 and 140) using b
 
 
 
+## usefull statistics (Varience, Standard deviation and Average Price) 
+
+
+
+
+
+
+<img width="1185" height="388" alt="Στιγμιότυπο οθόνης 2025-09-29 153532" src="https://github.com/user-attachments/assets/84792679-d984-4008-a745-9e597a22e6de" />
+
+
+
+
+
