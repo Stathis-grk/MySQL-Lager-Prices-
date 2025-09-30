@@ -141,3 +141,10 @@ Queried lager prices within a specific price range (between 120 and 140) using b
 
 
 
+# 📊 Skills Practiced
+1) SQL database design
+2) Data selection & filtering
+3) Aggregation functions (SUM, GREATEST)
+4) Conditional logic with CASE
+5) Table joins
+6) Data insertion & union queries
