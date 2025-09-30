@@ -32,7 +32,7 @@ Selected and displayed all prices.
 
 
 ## Data Analysis Queries
-Extracted the top highest lager prices between December 2014 – December 2015.
+Extracted the highest lager prices between December 2014 – December 2015.
 Identified which country had the highest price for each date using the GREATEST function and CASE statements.
 Calculated the total lager prices for each country.
 
